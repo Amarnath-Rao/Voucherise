@@ -4,6 +4,16 @@ The inspiration behind Voucherize DeFi stemmed from the frustration of unused vo
 #### What It Does
 Voucherize DeFi is a decentralized marketplace facilitating the secure buying, selling, and trading of vouchers. It incorporates a unique bidding system, adding a competitive element to the user experience. The project not only provides a solution for voucher management but showcases the power of blockchain in decentralized finance.
 
+
+## Scroll Sepolia Testnet -> deployed in address: 0x9fdd8562C511698A5c895a68cF250a0727AD4c0D
+## https://sepolia.scrollscan.com/address/0x9fdd8562c511698a5c895a68cf250a0727ad4c0d
+
+![1](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/e3a6abb8-ba18-4f40-a40e-c4b4e1cbe85f)
+![1 2](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/e8f8f665-a9c1-4b0b-b59e-8d5e5d751a03)
+![1 3](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/10a257e7-6c05-4ebd-9a82-7f9e64a42559)
+![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/4605135e-54fe-42d1-89fe-5a2547195803)
+
+
 #### How We Built It
 The development journey began with a clear purpose—creating a user-friendly platform. We implemented smart contracts using the ERC721 standard, integrating Scroll sepolia's privacy features for confidential transactions. The UI/Contract frontend was carefully designed to ensure a seamless and engaging interaction for users.
 
@@ -29,7 +39,7 @@ So, enable trustworthy transactions and agreements to be made between dispersed,
 •Resource optimisation
 
 Tech Stacks use:
-
+Scroll sepolia testnet for trasactions
 Solidity
 ReactJS
 NextJS
