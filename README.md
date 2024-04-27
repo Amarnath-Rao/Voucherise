@@ -4,6 +4,9 @@ The inspiration behind Voucherize DeFi stemmed from the frustration of unused vo
 #### What It Does
 Voucherize DeFi is a decentralized marketplace facilitating the secure buying, selling, and trading of vouchers. It incorporates a unique bidding system, adding a competitive element to the user experience. The project not only provides a solution for voucher management but showcases the power of blockchain in decentralized finance.
 
+[[Youtube video]](https://youtu.be/r30ZtCotUlg)
+
+
 
 ## Scroll Sepolia Testnet -> deployed in address: 0x9fdd8562C511698A5c895a68cF250a0727AD4c0D
 ## https://sepolia.scrollscan.com/address/0x9fdd8562c511698a5c895a68cf250a0727ad4c0d
